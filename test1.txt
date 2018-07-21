@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is 0C9A-CC42
+
+ Directory of C:\Users\vaishali.chaudhari\Desktop\MyProject
+
+07/21/2018  11:52 PM    <DIR>          .
+07/21/2018  11:52 PM    <DIR>          ..
+07/21/2018  11:52 PM               363 test1.text
+07/21/2018  11:52 PM                 0 test1.txt
+               2 File(s)            363 bytes
+               2 Dir(s)  103,625,248,768 bytes free
